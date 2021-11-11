@@ -1,3 +1,3 @@
 # NLW Heat - Mission Origin
 
-https://brendaandersen.github.io/nlw/
+https://brendaandersen.github.io/NLW-Heat/
